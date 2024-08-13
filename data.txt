@@ -1,0 +1,2 @@
+Data is collected from kaggle which is tmdb movie data.
+https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata 
